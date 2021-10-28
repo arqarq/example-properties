@@ -1,4 +1,4 @@
 a: b
 c: d
 server:
-  port: 8081
+  port: 0
