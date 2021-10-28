@@ -1,6 +1,6 @@
 custom:
   api:
-    version: 7
+    version: 8
 management:
   endpoints:
     web:
