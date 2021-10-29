@@ -1,5 +1,5 @@
 zuul:
-  prefix: /api/v1
+  prefix: /api/v2
   ignoredServices: '*'
   routes:
     cust:
