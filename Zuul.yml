@@ -2,8 +2,7 @@ zuul:
   prefix: /api/v2
   ignoredServices: '*'
   routes:
-    customers:
-      path: /customers/**
+    customers: /customers/**
     registration:
       path: /registration/**
       serviceId: Registration
