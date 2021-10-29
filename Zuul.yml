@@ -5,7 +5,6 @@ zuul:
     Customers: /customers/**
     registration:
       path: /registration/**
-      serviceId: Registration
     coupons:
       path: /coupons/**
       serviceId: Coupons
