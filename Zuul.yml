@@ -11,3 +11,8 @@ zuul:
     coupons:
       path: /coupons/**
       serviceId: Coupons
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh
